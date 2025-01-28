@@ -1,0 +1,32 @@
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.exe
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.deps.json
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.runtimeconfig.json
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.runtimeconfig.dev.json
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.dll
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.pdb
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.csproj.AssemblyReference.cache
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.AssemblyInfoInputs.cache
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.AssemblyInfo.cs
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.dll
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\ref\Eksamen.dll
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.pdb
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.genruntimeconfig.cache
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.csproj.AssemblyReference.cache
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.AssemblyInfoInputs.cache
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.AssemblyInfo.cs
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.csproj.CoreCompileInputs.cache
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.dll
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.pdb
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.exe
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.deps.json
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.runtimeconfig.json
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.runtimeconfig.dev.json
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.dll
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\bin\Debug\net5.0\Eksamen.pdb
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\refint\Eksamen.dll
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\Eksamen.genruntimeconfig.cache
+C:\Users\pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\ref\Eksamen.dll
+C:\Users\Oliver Pust\OneDrive - Aalborg Universitet\IxD\4. Semester\OOP\Eksamen\Eksamen\Eksamen\obj\Debug\net5.0\refint\Eksamen.dll

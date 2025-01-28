@@ -1,0 +1,13 @@
+type;id;user;amount;date;product
+Buy Transaction;1;afull;1500;31-05-2022 18:19:15;Chips
+Deposit Transaction;1;adods;1000;31-05-2022 18:21:08
+Deposit Transaction;2;adods;2000;31-05-2022 18:28:54
+Buy Transaction;3;adods;1000;31-05-2022 18:29:20;Øl(f.eks. Thy, Guld, 47, T-FF)
+Buy Transaction;4;afull;1000;01-06-2022 10:31:56;Øl(f.eks. Thy, Guld, 47, T-FF)
+Buy Transaction;5;afull;450;01-06-2022 10:32:35;½L Letmælk
+Deposit Transaction;6;adods;3000;01-06-2022 10:33:32
+Buy Transaction;7;adods;1000;01-06-2022 10:33:55;Øl(f.eks. Thy, Guld, 47, T-FF)
+Buy Transaction;8;adods;1000;01-06-2022 10:33:55;Øl(f.eks. Thy, Guld, 47, T-FF)
+Buy Transaction;9;adods;1000;01-06-2022 10:33:55;Øl(f.eks. Thy, Guld, 47, T-FF)
+Buy Transaction;10;adods;1000;01-06-2022 10:34:38;Øl(f.eks. Thy, Guld, 47, T-FF)
+Deposit Transaction;11;adods;10000;01-06-2022 11:38:23
